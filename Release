@@ -1,8 +1,8 @@
-Origin: Reposi3
-Label: Reposi3
+Origin: cros-mstr
+Label: Aurora Repository
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Reposi3 - a cydia repo template
+Description: The Aurora Repo, a suite of custom-made and handpicked apps for you to choose from!
